@@ -6,26 +6,24 @@ This was an app the I have developed to complete the challange given to me on a 
 <img src="ContactApp.jpg" width="230">&emsp;
 
 ## Technologies
-* Java
-  - Different Methods
-  - Class
+* Kotlin
+  - Data Class
 * ViewGroup
     * RecyclerView
     * CardView
-    * RelativeLayout
     * LinearLayout
+    * ConstraintLayout
 * UI Components
   - ImageView
   - TextView
   - View
-  - RatingBar
 * FindViewById to get UI Components
 * RecyclerView Adapter
 
 
 ### TODO
 - Update App's design
-- Add new items to 'Things to Do' and 'Places to Go'
+- Add new features to the App
 
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
