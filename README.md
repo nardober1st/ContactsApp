@@ -1,5 +1,5 @@
 # Contact App
-This was an app the I have developed to complete the challange given to me on a live class about RecyclerView Adapters with Roque.
+This is an app the I have developed to complete the challange given to me on a live class about RecyclerView Adapters with Roque.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
